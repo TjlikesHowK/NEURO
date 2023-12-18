@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="images">
+    <file>add.png</file>
+    <file>addHover.png</file>
+    <file>addPressed.png</file>
+    <file>nextHover.png</file>
+    <file>nextPressed.png</file>
+    <file>playHover.png</file>
+    <file>playPressed.png</file>
+    <file>prevHover.png</file>
+    <file>prevPressed.png</file>
+    <file>stopHover.png</file>
+    <file>stopPressed.png</file>
+    <file>next.png</file>
+    <file>play.png</file>
+    <file>prev.png</file>
+    <file>stop.png</file>
+    <file>background.jpg</file>
+  </qresource>
+</RCC>
